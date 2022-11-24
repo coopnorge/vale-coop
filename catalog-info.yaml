@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: vale-coop
+  title: Coop Vale Package
+  description: Vale Style Package for Coop
+  annotations:
+    github.com/project-slug: coopnorge/vale-coop
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: library
+  lifecycle: experimental
+  owner: engineering

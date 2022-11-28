@@ -1,0 +1,7 @@
+ClickOps
+MLOps
+DevOps
+DevSecOps
+GitOps
+Kanban
+Wi-Fi

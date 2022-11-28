@@ -1,6 +1,6 @@
 # Coop Vale Package
 
-Vale Style Package for Coop
+Vale Style Package for Coop. Helllo
 
 ## Usage
 

@@ -7,7 +7,7 @@ Vale Style Package for Coop.
 Add a `.vale.ini` to your repository.
 
 ```ini title=".vale.ini"
-StylesPath = .vale/styles
+StylesPath = styles
 
 Packages = https://github.com/coopnorge/vale-coop/releases/latest/download/Coop.zip
 ```
@@ -15,7 +15,7 @@ Packages = https://github.com/coopnorge/vale-coop/releases/latest/download/Coop.
 Repository specific Configuration can also be added.
 
 ```ini title=".vale.ini"
-StylesPath = .vale/styles
+StylesPath = styles
 
 Packages = https://github.com/coopnorge/vale-coop/releases/latest/download/Coop.zip
 

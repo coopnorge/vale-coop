@@ -37,16 +37,14 @@ Makefiles?
 Minikube
 Namespaces
 Netcat
+Netmask
 NodeJS
 NodePort
 OAuth
 OData
+OData
 OpenAPI
 OpenID
-OData
-oApp
-Netmask
-oShell
 OutboundAccessPolicy
 Podman
 Protocol Buffers
@@ -56,6 +54,7 @@ README
 STDERR
 STDOUT
 STRUCT
+Sekret
 SemVer
 ServiceEntry
 Skaffold
@@ -78,4 +77,6 @@ kube-dns
 localhost
 macOS
 mypy
+oApp
+oShell
 xConnect

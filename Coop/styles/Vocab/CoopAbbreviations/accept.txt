@@ -1,6 +1,7 @@
 AAD
-Ajax
+[aA]jax
 ABAP
+[aA]bap
 ABNF
 ACLs?
 ADF

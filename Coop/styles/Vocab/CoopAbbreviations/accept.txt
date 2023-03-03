@@ -1,7 +1,6 @@
 AAD
 Ajax
 ABAP
-[aA]bap
 ABNF
 ACLs?
 ADF

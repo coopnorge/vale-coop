@@ -58,7 +58,6 @@ Sekret
 SemVer
 ServiceEntry
 Skaffold
-spacectl
 Spacelift
 StatsD
 TensorFlow

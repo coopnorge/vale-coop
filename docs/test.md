@@ -13,6 +13,8 @@ Example using <https://idp> lowercase in a angle-bracket link.
 
 Example using `idp` lowercase in an inline block.
 
+Example using IDP uppercase (the right way).
+
 ```go
 Example using idp in a code block.
 ```

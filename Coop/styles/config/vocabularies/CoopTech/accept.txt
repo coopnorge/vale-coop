@@ -54,6 +54,8 @@ README
 STDERR
 STDOUT
 STRUCT
+Struct
+struct
 Sekret
 SemVer
 ServiceEntry

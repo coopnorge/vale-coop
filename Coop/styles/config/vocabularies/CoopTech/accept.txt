@@ -8,6 +8,7 @@ CheckHealth
 CoopID
 DaemonSets?
 Datetimes?
+Dependabot
 Dockerfiles?
 Dogstatsd
 EPI

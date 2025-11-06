@@ -71,7 +71,7 @@ TODO
 [tT]ranspilation
 [tT]ranspilations
 [tT]ranspiling
-[tTemporality]
+[tT]emporality
 [uU]nderstandability
 [uU]nderstandability
 [uU]nencrypted

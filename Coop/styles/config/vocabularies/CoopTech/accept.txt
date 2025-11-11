@@ -85,4 +85,5 @@ macOS
 mypy
 oApp
 oShell
+[tT]echdocs
 xConnect

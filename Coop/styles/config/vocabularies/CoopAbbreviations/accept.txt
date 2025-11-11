@@ -42,7 +42,8 @@ HTTP
 HTTPS
 IAM
 IC
-IDP
+# We accept both IDP and IdP in different contexts
+I[dD]P
 IDP's
 IDocs?
 IEC
@@ -52,7 +53,6 @@ IPs
 IaC
 IaaC
 IaaS
-IdPs?
 JSON
 JWK
 JWS

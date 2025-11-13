@@ -36,6 +36,7 @@ Kroki
 Kubeflow
 Kubernetes
 Kustomize
+markdownlint
 Makefiles?
 Minikube
 Namespaces
@@ -50,6 +51,7 @@ OpenAPI
 OpenID
 OutboundAccessPolicy
 Podman
+Prettier
 Protocol Buffers
 PyPI
 QUnit

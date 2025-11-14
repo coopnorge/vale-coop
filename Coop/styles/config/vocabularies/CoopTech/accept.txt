@@ -73,6 +73,7 @@ TestFlight
 UserInfo
 VNet
 VirtualNetwork
+(VSCode|vscode)
 abapGit
 appSettings
 buildx

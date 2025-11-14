@@ -20,7 +20,9 @@ Example using idp in a code block.
 ```
 
 <!-- vale off -->
+
 Example using lowercase idp in vale-disabled block.
+
 <!-- vale on -->
 
 ## Test regex

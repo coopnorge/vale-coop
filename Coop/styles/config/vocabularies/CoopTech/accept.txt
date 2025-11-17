@@ -1,3 +1,4 @@
+AlloyDB
 Ansible
 AnyConnect
 AppAuth
@@ -51,6 +52,7 @@ OpenAPI
 OpenID
 OutboundAccessPolicy
 Podman
+(Postgres|PostgreSQL)
 Prettier
 Protocol Buffers
 PyPI

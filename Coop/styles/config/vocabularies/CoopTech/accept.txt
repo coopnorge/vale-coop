@@ -20,6 +20,7 @@ ESLint
 ExpressRoute
 FieldMask
 FigJam
+[Gg]oose
 GraphQL
 HANA
 HDInsight
@@ -69,6 +70,7 @@ ServiceEntry
 Skaffold
 Spacelift
 StatsD
+sqlc
 TensorFlow
 Terraform
 TestFlight

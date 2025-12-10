@@ -1,0 +1,19 @@
+apiVersion: github.coop.no/v1alpha1
+kind: RepositoryConfig
+metadata:
+  name: vale-coop
+spec:
+  description: "Vale Style Package for Coop"
+
+  branches:
+    default: main
+    protection:
+      - id: main
+        pattern: main
+        requireSignedCommits: false
+        requiredStatusChecks:
+          checks:
+            - "Build"
+            - "policy-bot: main"
+        requiredPullRequestReviews:
+          requireCodeOwnerReviews: false

@@ -4,12 +4,14 @@ metadata:
   name: vale-coop
 spec:
   description: "Vale Style Package for Coop"
+  visibility: "public"
+
 
   branches:
-    default: main
+    default: "main"
     protection:
-      - id: main
-        pattern: main
+      - id: "main"
+        pattern: "main"
         requireSignedCommits: false
         requiredStatusChecks:
           checks:
@@ -17,3 +19,4 @@ spec:
             - "policy-bot: main"
         requiredPullRequestReviews:
           requireCodeOwnerReviews: false
+

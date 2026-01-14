@@ -59,6 +59,7 @@ Protocol Buffers
 PyPI
 QUnit
 README
+renovatebot
 STDERR
 STDOUT
 STRUCT

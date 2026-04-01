@@ -1,12 +1,10 @@
 version: 2
-
 registries:
   coop-ghcr:
     type: docker-registry
     url: ghcr.io
     username: CoopGithubServiceaccount
     password: ${{ secrets.DEPENDABOT_GHCR_PULL }}
-
 updates:
   - package-ecosystem: "docker"
     directory: "/docker-compose"
@@ -14,7 +12,15 @@ updates:
       - coop-ghcr
     schedule:
       interval: "daily"
+    cooldown:
+      default-days: 7
+      exclude:
+        - coopnorge/*
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
+    cooldown:
+      default-days: 7
+      exclude:
+        - coopnorge/*

@@ -2,14 +2,14 @@ policy:
   approval:
   - or:
     - Changes
-    - Dependabot update
+    - Dependency updates
 
 approval_rules:
 - name: Changes
   if:
     changed_files:
       paths:
-        - ".*"
+      - ".*"
   requires:
     count: 2
     teams:
@@ -23,7 +23,7 @@ approval_rules:
     methods:
       github_review: true
 
-- name: Dependabot update
+- name: Dependency updates
   requires:
     count: 1
     teams:
@@ -40,6 +40,7 @@ approval_rules:
     only_has_contributors_in:
       users:
       - "dependabot[bot]"
+      - renovate-coop-norge[bot]
     only_changed_files:
       paths:
       - "^.github/workflows/.*$"

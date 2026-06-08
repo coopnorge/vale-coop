@@ -116,3 +116,11 @@ protoc
 pseudonymising
 repo
 github-workflow
+Contentful
+Memorystore
+geocoding
+Vayado
+ESales
+Opencage
+geocode
+Uberall

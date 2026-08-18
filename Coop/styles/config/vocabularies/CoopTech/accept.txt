@@ -93,7 +93,8 @@ macOS
 mypy
 oApp
 oShell
-[tT]echdocs
+TechDocs
+techdocs
 tfswitch
 trivy
 xConnect

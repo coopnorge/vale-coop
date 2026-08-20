@@ -1,0 +1,10 @@
+extends: existence
+message: "**Error**: Rewrite the link text for `%s` to be more descriptive."
+level: error
+ignorecase: true
+scope: raw
+nonword: true
+tokens:
+  - \[here\]\(.*\)
+  - \[this page\]\(.*\)
+  - \[read more\]\(.*\)

@@ -26,6 +26,7 @@ Reddit
 SnapLogic
 Twilio
 Uber
+Voyado
 Workato
 Yotpo
 drawio

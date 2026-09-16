@@ -124,3 +124,5 @@ ESales
 Opencage
 geocode
 Uberall
+[Rr]etryable
+[Rr]etryability

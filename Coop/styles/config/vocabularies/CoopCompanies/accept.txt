@@ -18,6 +18,7 @@ Lobyco's
 MuleSoft
 Norge
 TIPCO
+Omnium
 OpenTracing
 Posten
 Prix

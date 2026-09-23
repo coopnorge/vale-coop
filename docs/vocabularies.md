@@ -103,7 +103,7 @@ Create the vocabulary under your repository's Vale styles path. For example:
 .vale/
 ├── styles/
 │   └── Vocab/
-│       └── MyRepository/
+│       └── Local/
 │           └── accept.txt
 └── .vale.ini
 ```
@@ -115,11 +115,11 @@ StylesPath = .vale/styles
 
 Packages = https://github.com/coopnorge/vale-coop/releases/latest/download/Coop.zip
 
-Vocab = MyRepository
+Vocab = Local
 ```
 
 Then put one canonical regex per line in
-`.vale/styles/Vocab/MyRepository/accept.txt`, for example:
+`.vale/styles/Vocab/Local/accept.txt`, for example:
 
 ```text
 [Ff]ish(?:es)?

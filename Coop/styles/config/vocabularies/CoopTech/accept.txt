@@ -99,3 +99,6 @@ trivy
 xConnect
 OpenTelemetry
 OTel
+[bB]ackpressure
+[gG]oroutines?
+[rR]untimes?

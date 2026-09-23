@@ -99,8 +99,6 @@ trivy
 xConnect
 OpenTelemetry
 OTel
-backpressure
-goroutine
-goroutines
-runtimes
-runtime
+[bB]ackpressure
+[gG]oroutines?
+[rR]untimes?

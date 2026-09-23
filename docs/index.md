@@ -25,6 +25,13 @@ Vocab = Norwegian
 TokenIgnores = coop\.no, https://teams.microsoft.com/l/channel/
 ```
 
-The example above adds a local [vocabulary](https://vale.sh/docs/topics/vocab/)
-that vale will look for in `.vale/style/Vocab/Norwegian` and some word tokens
-to ignore.
+The example above adds a local [vocabulary][Vale vocabularies] that Vale will
+look for in `.vale/styles/Vocab/Norwegian`, along with some word tokens to
+ignore.
+
+## Vocabulary guide
+
+See [Writing vocabulary entries](vocabularies.md) for guidance on writing one canonical regex per word, selecting the
+right shared vocabulary, and creating a repository-local vocabulary.
+
+[Vale vocabularies]: https://vale.sh/docs/topics/vocab/

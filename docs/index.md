@@ -31,7 +31,8 @@ ignore.
 
 ## Vocabulary guide
 
-See [Writing vocabulary entries](vocabularies.md) for guidance on writing one canonical regex per word, selecting the
-right shared vocabulary, and creating a repository-local vocabulary.
+See [Writing vocabulary entries](vocabularies.md) for guidance on writing one
+canonical regex per word, selecting the right shared vocabulary, and creating a
+repository-local vocabulary.
 
 [Vale vocabularies]: https://vale.sh/docs/topics/vocab/

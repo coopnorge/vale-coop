@@ -118,8 +118,8 @@ Packages = https://github.com/coopnorge/vale-coop/releases/latest/download/Coop.
 Vocab = Local
 ```
 
-Then put one canonical regex per line in
-`.vale/styles/Vocab/Local/accept.txt`, for example:
+Then put one canonical regex per line in `.vale/styles/Vocab/Local/accept.txt`,
+for example:
 
 ```text
 [Ff]ish(?:es)?

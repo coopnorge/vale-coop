@@ -1,6 +1,6 @@
 # Testing of vale
 
-The following examples should all pass Techdocs-validation, even though `IDP`
+The following examples should all pass TechDocs-validation, even though `IDP`
 should normally be capitalized:
 
 Example using IDP capitalized.

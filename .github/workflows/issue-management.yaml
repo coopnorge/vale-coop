@@ -12,7 +12,7 @@ on:
 
 jobs:
   handle-issues:
-    uses: coopnorge/github-workflow-github-issues-and-pr-organizer/.github/workflows/reusable-handle-issues-workflow.yaml@v1
+    uses: coopnorge/github-workflow-github-issues-and-pr-organizer/.github/workflows/reusable-handle-issues-workflow.yaml@v1.0.7
     with:
       incoming_column: New
       done_column: Done

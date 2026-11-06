@@ -126,3 +126,4 @@ geocode
 Uberall
 [Rr]etryable
 [Rr]etryability
+[iI]nitialisms?
